@@ -771,6 +771,7 @@ Download: https://www.qubes-os.org/
 Download: https://www.whonix.org/ 
 
 •	Alpine Linux
-Download: https://www.alpinelinux.org/ 
+Download: https://www.alpinelinux.org/  
+  
 
-Dicas adicionais para acesso seguro: https://www.privacytools.io/
+##Dicas adicionais para acesso seguro: https://www.privacytools.io/
