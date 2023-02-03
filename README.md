@@ -29,7 +29,7 @@ Achamos que ter conhecimento das ferramentas de controle e Redes Sociais onde se
 [3.2	Anúncios e venda pela Internet](#anuncio-venda)  
 [3.3	Cofre de Senhas](#cofre-senha)  
 - [4.	Navegadores](#browsers)  
-- [5.	Sistemas operacionais e Máquinas Virtuais](#OS-VM)  
+- [5.	Sistemas operacionais e Máquinas Virtuais](#OSVM)  
 
 ## 1.	Métodos de Resguardo nas Redes Sociais <a name="metodos-redes"></a>  
 
@@ -739,7 +739,7 @@ Cookie AutoDelete: deleta automaticamente os cookies dos sites. Cookies são arq
 
 Ferramenta de teste de segurança para navegadores: https://panopticlick.eff.org/ 
 
-## 5.	Sistemas operacionais e Máquinas Virtuais <a name="OS-VM"></a>  
+## 5.	Sistemas operacionais e Máquinas Virtuais <a name="OSVM"></a>  
 
 Para anonimato dentro das redes, sugerimos também sistemas operacionais Linux. 
 No caso deste documento a privacidade está no topo da agenda, então utilizar um sistema operacional Linux orientado para a segurança é a solução para você. Outro detalhe é que estes sistemas podem ser utilizados em um pendrive emulando um HD “bootavel”. Sendo utilizados somente em casos de necessidade.
@@ -772,7 +772,5 @@ Download: https://www.whonix.org/
 
 •	Alpine Linux
 Download: https://www.alpinelinux.org/ 
-
-
 
 Dicas adicionais para acesso seguro: https://www.privacytools.io/
