@@ -774,4 +774,4 @@ Download: https://www.whonix.org/
 Download: https://www.alpinelinux.org/  
   
 
-##Dicas adicionais para acesso seguro: https://www.privacytools.io/
+## Dicas adicionais para acesso seguro: https://www.privacytools.io/
